@@ -3,7 +3,7 @@
   "name": "Smart Trader",
   "version": "0.33.1",
   "description": "Auto-place Renko trading signals directly on Kite",
-  "homepage_url": "https://sprasadswain.github.io/kite-signal-extension/privacy-policy.html",
+  "homepage_url": "https://sibaps80.github.io/kite-signal-extension/privacy-policy.html",
   "permissions": [
     "activeTab",
     "scripting",
